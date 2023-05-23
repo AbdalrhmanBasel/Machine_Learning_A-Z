@@ -1,0 +1,11 @@
+TODO:
+    # Dataset Preparation
+    1. Carefully collect a dataset and ensure it is properly labeled with the target classes wanted to be predicted.
+    2. Standardize the features of the dataset and ensure that each feature is on a similar scale, to prevent any particular feature from dominating the learning process.
+    # Creating Logistic Regression Model Class
+    3. Initialize the weights and bias using random values drawn from a normal distribution. These initial values would serve as starting points for the learning process.
+    4. implement the total gradient descent algorithm, which involves calculating the gradients of the cost function with respect to the weights and bias, and then update them using a learning rate. Loop through the training data multiple times and adjust the weights & bias with each iteration, gradually honing the model's ability to make accurate predictions.
+    5. printe the target function value on the training set, as well as the accuracy and confusion matrix on both the training and validation sets. This allowed her to assess how well her model was learning and making predictions.
+    # Test the Model
+    6. Do ultimate test by evaluating its performance on the test set.
+    7. calculated the accuracy and generated the confusion matrix, which revealed how well her model classified the different classes.

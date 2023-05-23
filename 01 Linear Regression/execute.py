@@ -25,7 +25,7 @@ if __name__ == '__main__':
 
     # Predicting New Data
     model = LinearRegression(cfg=cfg)
-    # model = PolynomialRegression(cfg=cfg)
+    # model = PolynomialRegression(cfg.py.py=cfg.py.py)
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
 

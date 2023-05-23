@@ -3,7 +3,7 @@ from easydict import EasyDict
 cfg = EasyDict()
 
 # Dataset path
-# cfg.dataframe_path = 'advertising_data.csv'
+# cfg.py.py.dataframe_path = 'advertising_data.csv'
 
 # Configurations
 cfg.learning_rate = 0.8

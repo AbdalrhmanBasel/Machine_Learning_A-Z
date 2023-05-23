@@ -1,0 +1,2 @@
+Learned:
+    1. Making to much number of iterations can cause your model to dieverage and produce nan, reduce it.
